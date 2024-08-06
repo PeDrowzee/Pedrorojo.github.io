@@ -484,6 +484,9 @@ textarea {
         margin-top: 64px;
 }
 
+.contact-me {
+	padding-bottom: 140px;
+}
 
 /**
  * small screens - (_grid.scss)

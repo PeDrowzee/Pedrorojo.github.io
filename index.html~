@@ -7,7 +7,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>CVMOHAMAD</title>
+	<title>CVPEDRO</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -43,7 +43,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">CVMOHAMAD</a>
+		         <a href="index.html">ROJO PEDRO</a>
 		      </div>
 
 		   	<nav id="main-nav-wrap">
@@ -72,7 +72,7 @@
    			<div class="col-twelve">
 
 	   			<h5>Hello, World.</h5>
-	   			<h1>I'm Mohamad Abou Alnaser.</h1>
+	   			<h1>I'm Pedro.</h1>
 
 	   			<p class="intro-position">
 	   				<span>Front-end Developer</span>
@@ -103,7 +103,7 @@
 
    			<div class="intro-info">
 
-   				<img src="images/MOHAMAD.png" alt="Profile Picture">
+   				<img src="images/pedro.png" alt="Profile Picture">
 
    				<p class="lead">Actuellement apprenant à
 Simplon.co en développement Web
@@ -131,7 +131,7 @@ mobile. </p>
    			<ul class="info-list">
    				<li>
    					<strong>Nom et Prénom:</strong>
-   					<span>ABOU ALNASER Mohamad</span>
+   					<span>ABOU ALNASER Pedro</span>
    				</li>
    				<li>
    					<strong>Date de naissance:</strong>
